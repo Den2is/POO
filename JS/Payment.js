@@ -1,5 +1,7 @@
-class Payment {
-    constructor() {
-        this.id;
-    }
+class Payment
+{
+	constructor()
+	{
+		this.id;
+	}	
 }

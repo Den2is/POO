@@ -1,3 +1,4 @@
+
 class Account {
 
     constructor(name, document) {
